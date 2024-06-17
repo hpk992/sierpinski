@@ -5,8 +5,8 @@
 #include <time.h>
 #include <unistd.h>
 
-#define SCREEN_WIDTH 55
-#define SCREEN_HEIGHT 25
+#define SCREEN_WIDTH 95
+#define SCREEN_HEIGHT 30
 
 int width = SCREEN_WIDTH + 1;
 int height = SCREEN_HEIGHT + 1;
