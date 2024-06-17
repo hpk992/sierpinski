@@ -89,7 +89,7 @@ int main() {
   } while (!isInsideTriangle(x, y, x1, y1, x2, y2, x3, y3));
   plotPoint(screen, x, y);
 
-  drawSierpinski(screen, x, y, x1, y1, x2, y2, x3, y3, 9000);
+  drawSierpinski(screen, x, y, x1, y1, x2, y2, x3, y3, 10000);
 
   return 0;
 }
